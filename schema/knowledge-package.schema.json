@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Land resource thesis knowledge package",
+  "type": "object",
+  "required": ["package_key", "name", "version", "documents"],
+  "properties": {
+    "package_key": {"type": "string"},
+    "name": {"type": "string"},
+    "version": {"type": "string"},
+    "authority_level": {"type": "string"},
+    "documents": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["title", "source", "review_status"],
+        "properties": {
+          "title": {"type": "string"},
+          "source": {"type": "string"},
+          "source_url": {"type": ["string", "null"]},
+          "review_status": {"const": "pending"}
+        }
+      }
+    }
+  }
+}
