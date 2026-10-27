@@ -1,8 +1,8 @@
 {
   "package_key": "land-resource-auto-update",
-  "version": "2026.10.22.0841",
-  "package_url": "https://raw.githubusercontent.com/shanghuaxichao-oss/land-resource-thesis-knowledge-feed/main/packages/knowledge-2026.10.22.0841.json",
-  "sha256": "5d6645827f8a471341829680e974a1df34aa14447268bfe814a1927d9422d9d8",
-  "signature": "YzRgMfn11vPGnez6zEAwRLirenBTVn9+uPVzMvuuxj2UDIdbZ47i3Iqh/aHPW5ZP8zwMbvcRBq4A56P6+MKlDA==",
+  "version": "2026.10.27.0905",
+  "package_url": "https://raw.githubusercontent.com/shanghuaxichao-oss/land-resource-thesis-knowledge-feed/main/packages/knowledge-2026.10.27.0905.json",
+  "sha256": "0ad92a3fd129dad4864caa6e409b33923bab81568a9ef5c23f908f0e29e389b7",
+  "signature": "FxeYzoKyj2oTKjFn21f0AXdOxnkLRlzx61KsmR8xf89Z0mDMYgnePS+CYScJZjRCI53EyUciIDKOO/E+Kk2zAg==",
   "review_required": true
 }
